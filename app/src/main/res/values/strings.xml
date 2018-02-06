@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+    <string name="edittext_uri">http://ithb.ac.id</string>
+    <string name="button_uri">Open Website</string>
+    <string name="edittext_loc">Institut Teknologi Harapan Bangsa</string>
+    <string name="button_loc">Open Location</string>
+    <string name="edittext_share">Future Leaders Who Make a Difference</string>
+    <string name="button_share">Share This Text</string>
+</resources>
